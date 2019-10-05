@@ -8,5 +8,5 @@ We will start with a simple hand-digit classificaton tutorial (see [`001_pytorch
 <big><pre>
 ├── Pytorch_tutorials
 │   ├── [`001_pytorch_model_training_mnist.ipynb`](./001_pytorch_model_training_mnist.ipynb) =>   Training a simple CNN model on MNIST dataset.
-│   ├── [`001_mnist_inference_live_pytorch.py`](./001_mnist_inference_live_pytorch.py)       =>   Use the MNIST trained model and run on the live webcam for handdigit classification
+│   ├── [`001_mnist_inference_live_pytorch.py`](./001_mnist_inference_live_pytorch.py)   =>   Use the MNIST trained model and run on the live webcam for handdigit classification
 </pre></big>
